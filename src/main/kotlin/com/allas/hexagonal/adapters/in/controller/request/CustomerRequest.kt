@@ -1,7 +1,6 @@
 package com.allas.hexagonal.adapters.`in`.controller.request
 
 import jakarta.validation.constraints.NotBlank
-import org.springframework.data.mongodb.core.mapping.Field
 
 data class CustomerRequest(
 
